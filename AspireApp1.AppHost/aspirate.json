@@ -1,0 +1,11 @@
+{
+  "TemplatePath": null,
+  "ContainerSettings": {
+    "Registry": "europe-west1-docker.pkg.dev",
+    "RepositoryPrefix": "gke-proj-sandbox/repo-1",
+    "Tags": [
+      "latest"
+    ],
+    "Builder": "docker"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "projectPath": ".",
+  "outputPath": "aspirate-output",
+  "containerRegistry": "europe-west1-docker.pkg.dev",
+  "containerImageTags": [
+    "latest"
+  ],
+  "runtimeIdentifier": "linux-amd64",
+  "imagePullPolicy": "Always",
+  "containerBuilder": "docker",
+  "containerRepositoryPrefix": "gke-proj-sandbox/repo-1",
+  "outputFormat": "kustomize",
+  "skipFinalKustomizeGeneration": true,
+  "privateRegistryEmail": "aspir8@aka.ms",
+  "includeDashboard": true,
+  "useCustomNamespace": false,
+  "secrets": {
+    "salt": "yOy9zjaxG1PSgtN\u002B",
+    "hash": "W2nnrxbBs8cNq9PVGvTa11q9nBoImq5yliS988P9xW8=",
+    "secrets": {}
+  },
+  "processAllComponents": true
+}
