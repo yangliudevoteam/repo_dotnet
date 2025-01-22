@@ -1,0 +1,12 @@
+/Users/yang/Desktop/folder-test-dotnet/AspireApp1.ServiceDefaults/bin/Release/net9.0/AspireApp1.ServiceDefaults.deps.json
+/Users/yang/Desktop/folder-test-dotnet/AspireApp1.ServiceDefaults/bin/Release/net9.0/AspireApp1.ServiceDefaults.dll
+/Users/yang/Desktop/folder-test-dotnet/AspireApp1.ServiceDefaults/bin/Release/net9.0/AspireApp1.ServiceDefaults.pdb
+/Users/yang/Desktop/folder-test-dotnet/AspireApp1.ServiceDefaults/obj/Release/net9.0/AspireApp1.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/yang/Desktop/folder-test-dotnet/AspireApp1.ServiceDefaults/obj/Release/net9.0/AspireApp1.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yang/Desktop/folder-test-dotnet/AspireApp1.ServiceDefaults/obj/Release/net9.0/AspireApp1.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/yang/Desktop/folder-test-dotnet/AspireApp1.ServiceDefaults/obj/Release/net9.0/AspireApp1.ServiceDefaults.AssemblyInfo.cs
+/Users/yang/Desktop/folder-test-dotnet/AspireApp1.ServiceDefaults/obj/Release/net9.0/AspireApp1.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/yang/Desktop/folder-test-dotnet/AspireApp1.ServiceDefaults/obj/Release/net9.0/AspireApp1.ServiceDefaults.dll
+/Users/yang/Desktop/folder-test-dotnet/AspireApp1.ServiceDefaults/obj/Release/net9.0/refint/AspireApp1.ServiceDefaults.dll
+/Users/yang/Desktop/folder-test-dotnet/AspireApp1.ServiceDefaults/obj/Release/net9.0/AspireApp1.ServiceDefaults.pdb
+/Users/yang/Desktop/folder-test-dotnet/AspireApp1.ServiceDefaults/obj/Release/net9.0/ref/AspireApp1.ServiceDefaults.dll
